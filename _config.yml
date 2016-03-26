@@ -5,19 +5,19 @@ permalink:           pretty
 #relative_permalinks: true # removing permalinks for Jekyll v3.0
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Hubert.World
+tagline:             'Sharing with you, World :)'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://hubert.world
 baseurl:             ''
 paginate:            5
 gems: ["jekyll-paginate"]
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Hubert World
+  url:               https://twitter.com/hubertdotworld
+  email:             hubertdotworld@gmail.com
 
 # Custom vars
 version:             1.0.0
