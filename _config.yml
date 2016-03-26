@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               Hubert.World
-tagline:             'Sharing with you, World :)'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             "Sharing with you, World :)"
+description:         "Sharing with you experiences, perspectives and ideas I've found inspiring and resourceful. May this help you grow, enjoy! :)"
 url:                 http://hubert.world
 baseurl:             ''
 paginate:            5
